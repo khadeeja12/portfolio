@@ -152,8 +152,8 @@ ul{
     color: var(--text-black-900);
     font-weight: 700;
     padding: 15px 20px;
-    font-size: 30px;
-    letter-spacing: 5px;
+    font-size: 25px;
+    letter-spacing: 3px;
     position: relative;
 }
 
@@ -565,9 +565,9 @@ h3.my-profession{
     font-weight: 500;
 }
 .portfolio .portfolio-item{
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
-    margin-bottom: 30px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 20px;
 }
 .portfolio .portfolio-item-inner{
     border: 6px solid var(--bg-black-100);
